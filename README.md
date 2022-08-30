@@ -18,7 +18,7 @@ Three simple administrative tasks and one reading.
 
 #### Tasks
 
-1. If you haven't already done it, accept the email that you received from Piazza to join the class [Piazza forum](https://piazza.com/class/l7c8612dv3v2ez/); 
+1. If you haven't already done it, accept the email that you received from Piazza to join the class [Piazza forum](https://piazza.com/class/l7ca109sok15ag); 
 
 2. If you haven't already done it, please take a short [1100 survey](https://www.surveymonkey.com/r/WKZZDV8);
 
